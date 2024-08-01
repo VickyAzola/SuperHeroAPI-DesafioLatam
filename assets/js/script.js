@@ -1,7 +1,8 @@
 $(document).ready(function() {
 
-  //evento onClick para desencadenar la busqueda de data
-  $("button").on("click", function() {
+  //evento submit para desencadenar la busqueda de data
+  $("form").on("submit", function(e) {
+    e.preventDefault();
     //id corresponde al valor ingresado por el usuario
     let id = parseInt($("#numero").val())
     
@@ -43,6 +44,7 @@ $(document).ready(function() {
       "crossDomain": true,
       "url": `https://superheroapi.com/api.php/ccb63b0c74859a84b3dde44600ed20da/${id}`,
       "method": "GET",
+      "dataType": "json",
       "headers": {
         "Accept": "*/*",
       }

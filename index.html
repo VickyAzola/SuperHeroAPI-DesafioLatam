@@ -28,19 +28,22 @@
     <section class="hero">
       <img class="hero__img" src="assets/img/sh1.jpg"/>
       <h1 class="hero__title">Encuentra tu SuperHero</h1>
+      
       <form class="form">
           <label class="form__label" for="numero">Ingresa el número del SuperHero a buscar</label>
           <input 
             class="form__input" 
             id="numero" 
+            name="numero" 
             type="number" 
             min="1" 
             max="732" 
             placeholder="Ingresa un número entre 1 y 732"
             required
           >
-        <button class="form__btn" type="button">Buscar</button>
+        <button class="form__btn">Buscar</button>
       </form>
+
     </section>
 
     <section class="response">
