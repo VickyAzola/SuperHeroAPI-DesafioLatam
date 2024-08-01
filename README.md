@@ -11,11 +11,14 @@
 
 ## Descripción
 
-Este proyecto permite a los usuarios buscar información sobre sus superhéroes favoritos utilizando la API de SuperHero. 
+Este proyecto permite a los usuarios buscar información sobre sus superhéroes favoritos utilizando la 
+[API de SuperHero](https://www.superheroapi.com/index.html). 
 La aplicación proporciona un formulario para que los usuarios ingresen un número de superhéroe y devuelve información 
 detallada sobre el héroe junto con un gráfico de estadísticas de poder.
 
-[Revisa el resultado aqui]()
+[Revisa el resultado aqui](https://vickyazola.github.io/SuperHeroAPI-DesafioLatam/)
+
+![Wireframe - 6](https://github.com/user-attachments/assets/03988a74-5385-467c-b6bb-87604642a92b)
 
 
 ## Estructura del Proyecto
