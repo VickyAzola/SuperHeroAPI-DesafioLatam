@@ -1,4 +1,4 @@
-# Buscador de Superhéroes (HTML5, SASS, Bootstrap, JQuery)
+# Buscador de Superhéroes (HTML5, CSS, Bootstrap, JQuery, Canvas.js)
 
 ## Tabla de Contenidos
 
