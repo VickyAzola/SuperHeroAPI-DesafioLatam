@@ -1,4 +1,4 @@
-# Viajes Chile (HTML5, SASS, Bootstrap, JQuery)
+# Buscador de Superhéroes (HTML5, SASS, Bootstrap, JQuery)
 
 ## Tabla de Contenidos
 
