@@ -31,7 +31,7 @@ SuperHeroAPI-DesafioLatam/
 │   │     └── style.css
 │   ├── img/...
 │   └── js/
-│        └── scripts.js
+│        └── script.js
 ├── index.html
 └── README.md
 ```
